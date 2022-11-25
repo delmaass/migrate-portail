@@ -1,0 +1,7 @@
+venv
+.vscode
+__pycache__
+
+input/*.csv
+output/profile_picture/*.jpg
+output/*.csv
